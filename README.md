@@ -1,3 +1,1 @@
-## Terraform project diagram
-
-(./docs/terraform-diagram.png)
+![Terraform Project Diagram](./docs/terraform-diagram.png)
